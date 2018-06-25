@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy-amd64:v1.10.5
+FROM k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.10
 MAINTAINER sunwei86@gmail.com
